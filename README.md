@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm DRAKZO</h1>
+<h1 align="center">Hey there! 👋 I'm MOHAMMED NABEEL U</h1>
 
 <p align="center">
   <em>Building cool stuff with code ✨</em>
