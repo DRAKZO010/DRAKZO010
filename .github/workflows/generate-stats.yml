@@ -1,0 +1,33 @@
+name: Generate Contribution Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Run every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution stats
+        uses: jamesgeorge007/github-readme-stats@master
+        with:
+          USERNAME: DRAKZO010
+          THEME: tokyonight
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: assets
+          force_orphan: true

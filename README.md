@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header with typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+DRAKZO;Welcome+to+my+profile" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+DRAKZO;Welcome+to+my+profile" alt="Typing SVG" />
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=DRAKZO010&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=DRAKZO010&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -51,9 +51,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DRAKZO010&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DRAKZO010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKZO010&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKZO010&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAKZO010&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAKZO010&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DRAKZO010&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=DRAKZO010&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-[![DRAKZO010's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DRAKZO010&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![DRAKZO010's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DRAKZO010&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -103,7 +103,7 @@
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
