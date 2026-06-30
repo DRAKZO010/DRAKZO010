@@ -42,9 +42,9 @@ full-stack developer. i build things.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DRAKZO010&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=238636&icon_color=238636&text_color=c9d1d9" alt="stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DRAKZO010&show_icons=true&hide_border=true&count_private=true" alt="stats" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKZO010&layout=compact&hide_border=true&bg_color=0d1117&title_color=238636&text_color=c9d1d9" alt="languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKZO010&layout=compact&hide_border=true" alt="languages" />
 
 </div>
 
@@ -52,19 +52,31 @@ full-stack developer. i build things.
 
 ## streak
 
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAKZO010&hide_border=true&background=0d1117&stroke=238636&ring=238636&fire=238636&currStreakLabel=238636&sideNums=c9d1d9&sideLabels=c9d1d9&dates=238636" alt="streak" />
+
+</div>
 
 ---
 
 ## trophies
 
+<div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=DRAKZO010&no-frame=true&column=7&no-bg=true&theme=flat" alt="trophies" />
+
+</div>
 
 ---
 
 ## activity
 
+<div align="center">
+
 [![activity](https://github-readme-activity-graph.vercel.app/graph?username=DRAKZO010&bg_color=0d1117&color=238636&line=238636&point=ffffff&area=true&area_color=238636&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
