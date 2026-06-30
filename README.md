@@ -68,12 +68,6 @@ full-stack developer. i build things.
 
 ---
 
-## snake
-
-![snake](https://raw.githubusercontent.com/DRAKZO010/DRAKZO010/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ## connect
 
 [github](https://github.com/DRAKZO010) · [email](mailto:your.email@example.com) · [linkedin](https://linkedin.com/in/your-profile)
